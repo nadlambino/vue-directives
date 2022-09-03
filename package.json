@@ -1,6 +1,6 @@
 {
   "name": "@nad.lambino/v-directives",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compilation of vue directives",
   "main": "index.js",
   "scripts": {
