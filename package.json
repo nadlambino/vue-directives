@@ -1,0 +1,31 @@
+{
+  "name": "@nad.lambino/v-directives",
+  "version": "1.0.0",
+  "description": "Compilation of vue directives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadlambino/vue-directives.git"
+  },
+  "keywords": [
+    "vue",
+    "directives",
+    "vue-directives"
+  ],
+  "author": "nadlambino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadlambino/vue-directives/issues"
+  },
+  "homepage": "https://github.com/nadlambino/vue-directives#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.14",
+    "vite": "^3.0.9"
+  }
+}
